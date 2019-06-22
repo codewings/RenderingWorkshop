@@ -8,5 +8,10 @@
 			"Name": "RenderDocPlugin",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"AllDesktop",
+		"IOS"
 	]
 }
